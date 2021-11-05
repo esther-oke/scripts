@@ -1,0 +1,14 @@
+1. Stage new changes - all files
+git add .  
+
+2. Stage new changes - one file
+git add <file name>
+
+3. Commit changes
+git commit -m "description of the changes you are committing"
+
+4. Push changes to remote
+git push
+
+5. To check the status of the Git repository
+git status
