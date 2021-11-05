@@ -1,0 +1,22 @@
+1. Operators: * - / +
+  Values:  'hello', -88.8, 5
+
+2. Variable: spam
+   String: 'spam'
+
+3. string, integer, floating-point
+
+4. An expression is made up of values and operators. All expressions compress to give a more summarised value.
+
+5. An expression can be further compressed but astatement can not.
+
+6. The variable bacon will contain 21 after the code runs.
+
+7.  'spamspamspam'
+
+8. It is so because numbers are not used in starting a variable name.
+
+9. str(), int(), float().
+
+10. It is an error because 99 is not in a string. 
+    ' I have eaten' + '99' + 'burritos.'
