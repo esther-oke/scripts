@@ -1,0 +1,18 @@
+1. [] is an empty list.
+2. spam.insert(2, 'hello')
+3. Error
+4. spam[-1] = 'd'
+5. spam[:2] = ['a', 'b']
+6. bacon.index('cat') = [1]
+7. bacon.append(99) = [3.14, 'cat', 11, 'cat', True, 99]
+8. bacon.remove('cat') = [3.14, 11, 'cat', True, 99]
+9. + for concatenation while * is for replication
+10. append adds the item at the end of the existing items in the list while isert specifies the particular position the item is to take.
+11. by using the statement remove or del which stands for del
+12. List like string values are written in inverted commas.
+13. Lists make use of square brackets while tuples make use of parentheses.
+14. (42,)
+15. tuple([]), list [()]
+16. References
+17. copy.copy() can be used to make a duplicate copy of a mutable value.
+    deepcopy() is used to copy list in a list. 

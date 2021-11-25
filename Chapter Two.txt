@@ -4,10 +4,16 @@
 
 3. True and True = True
    True and False = False
+   False and True = 
+   False and False = 
+
    True or True = True
    True or False = False
-   False and False = False
-   False or False = False
+   False or True = 
+   False or False = 
+
+   not True =
+   not False = 
 
 4. (5 > 4) and (3 == 5) False
    not (5 > 4) False
@@ -27,20 +33,20 @@
 9. spam = 0
    if spam == 1:
      print('Hello')
-   elif spam = 2:
+   elif spam == 2:
      print('Howdy')
    else:
      print('Greetings!')
 
 10. control c
 
-11. break brings the code to an end while continue makes it start again from the beginning.
+11. break ends the loop (and move on to the next block of code), continue skips current iteration of a loop and moves to the next iteration
 
 12. range (10) numbers between 0 and 10 without including 10 itself.
     range (0, 10)  numbers beginning from 0 and ending with 9 that is, without including 10.
     range (0, 10, 1) numbers between 0 and 10, counting with an interval of 1.
 
-13. i = 0
+13.
     for i in range(11):
       print(i)
 
@@ -50,4 +56,4 @@
     i = i + 1
 
 14. import spam
-    print(bacon())
+    bacon()

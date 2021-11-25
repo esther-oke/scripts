@@ -1,0 +1,15 @@
+1. To avoid repititions in coding
+2. The code in a function executes when the funtion is called.
+3. The def statement
+4. A function defines the process of executing a task while a function call executes the task.
+5. There is only one global scope and several local scopes.
+6. The local variable can be used outside the function any time after the function call completes.
+7. Return value is the value that a function returns when it has completed. A return value can be part of an expression.
+8. None
+9. By using the global keyword.
+10. The None data type represents the absence of a value.
+11. The import statement reads the code in a python module and allows you to use it in another file.
+12. bacon()
+13. Use the except clause.
+14. The try block helps you try a block of codes for errors. The except clause helps you handle the error.  
+
